@@ -17,3 +17,4 @@ and `betty-doc.pl`.
 | Directory | Description |
 |---|---|
 | `hello_world` | The C compilation process, and printing with `printf`, `puts` and `putchar` |
+| `variables_if_else_while` | Variables, operators, `if`/`else`, `while` loops and the ASCII table |
