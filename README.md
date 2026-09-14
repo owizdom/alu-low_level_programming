@@ -18,3 +18,4 @@ and `betty-doc.pl`.
 |---|---|
 | `hello_world` | The C compilation process, and printing with `printf`, `puts` and `putchar` |
 | `variables_if_else_while` | Variables, operators, `if`/`else`, `while` loops and the ASCII table |
+| `functions_nested_loops` | Functions, prototypes, header files and nested loops |
