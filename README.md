@@ -20,3 +20,4 @@ and `betty-doc.pl`.
 | `variables_if_else_while` | Variables, operators, `if`/`else`, `while` loops and the ASCII table |
 | `functions_nested_loops` | Functions, prototypes, header files and nested loops |
 | `pointers_arrays_strings` | Pointers, arrays, strings and how they differ |
+| `recursion` | Recursive functions: base cases, the call stack and helper functions |
