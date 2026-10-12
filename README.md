@@ -21,3 +21,4 @@ and `betty-doc.pl`.
 | `functions_nested_loops` | Functions, prototypes, header files and nested loops |
 | `pointers_arrays_strings` | Pointers, arrays, strings and how they differ |
 | `recursion` | Recursive functions: base cases, the call stack and helper functions |
+| `malloc_free` | Dynamic memory with `malloc` and `free`: allocating at run time and freeing it |
