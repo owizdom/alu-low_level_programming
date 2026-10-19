@@ -22,3 +22,4 @@ and `betty-doc.pl`.
 | `pointers_arrays_strings` | Pointers, arrays, strings and how they differ |
 | `recursion` | Recursive functions: base cases, the call stack and helper functions |
 | `malloc_free` | Dynamic memory with `malloc` and `free`: allocating at run time and freeing it |
+| `structures_typedef` | Structures, `typedef`, and allocating and freeing a struct with its own copied strings |
